@@ -42,7 +42,7 @@
 
 ----------------------------
 
-###방탈출 게임 실행 화면
+### 방탈출 게임 실행 화면
 
 
 ![1](https://user-images.githubusercontent.com/71479783/93558622-cf926d00-f9b8-11ea-9bfd-50c8cb3d4ca1.png)
